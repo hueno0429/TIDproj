@@ -25,6 +25,7 @@ SECRET_KEY = 'django-insecure-z6q=m%u3e!xdji7cj8tofvn6&w5yxe7+sgfa2-q)qh5#^va=cn
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+# このプログラムの動作を許可するホスト
 ALLOWED_HOSTS = ['localhost','hueno0429.pythonanywhere.com']
 
 
